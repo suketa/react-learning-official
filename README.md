@@ -11,7 +11,8 @@
 - https://ja.react.dev/learn/your-first-component
   - [your-first-component 1](./your-first-component1)
   - [your-first-component 2](./your-first-component2)
-  - not finished
+  - [your-first-component 3](./your-first-component3)
+  - [your-first-component 4](./your-first-component4)
 - https://react.dev/learn/importing-and-exporting-components
 - https://ja.react.dev/learn/importing-and-exporting-components
   - [importing-and-exporting-components](./importing-and-exporting-components)
