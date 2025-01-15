@@ -27,6 +27,8 @@
 - https://react.dev/learn/passing-props-to-a-component
 - https://ja.react.dev/learn/passing-props-to-a-component
   - [passing-props-to-a-component 1](./passing-props-to-a-component1)
+  - [passing-props-to-a-component 2](./passing-props-to-a-component1)
+  - [passing-props-to-a-component 3](./passing-props-to-a-component1)
 - https://react.dev/learn/conditional-rendering
 - https://ja.react.dev/learn/conditional-rendering
   - not finished
