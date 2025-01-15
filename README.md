@@ -21,7 +21,9 @@
   - [writing-markup-with-jsx](./writing-markup-with-jsx)
 - https://react.dev/learn/javascript-in-jsx-with-curly-braces
 - https://ja.react.dev/learn/javascript-in-jsx-with-curly-braces
-  - not finished
+  - [javascript-in-jsx-with-curly-braces 1](./javascript-in-jsx-with-curly-braces1)
+  - [javascript-in-jsx-with-curly-braces 2](./javascript-in-jsx-with-curly-braces2)
+  - [javascript-in-jsx-with-curly-braces 3](./javascript-in-jsx-with-curly-braces3)
 - https://react.dev/learn/passing-props-to-a-component
 - https://ja.react.dev/learn/passing-props-to-a-component
   - not finished
