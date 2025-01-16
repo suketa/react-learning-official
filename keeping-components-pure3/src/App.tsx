@@ -1,35 +1,43 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
-import './App.css'
+import { useState, useEffect } from 'react';
+import StoryTray from './StoryTray.js';
 
-function App() {
-  const [count, setCount] = useState(0)
+let initialStories = [
+  {id: 0, label: "Ankit's Story" },
+  {id: 1, label: "Taylor's Story" },
+];
+
+export default function App() {
+  let [stories, setStories] = useState([...initialStories])
+  let time = useTime();
+
+  // HACK: Prevent the memory from growing forever while you read docs.
+  // We're breaking our own rules here.
+  if (stories.length > 100) {
+    stories.length = 100;
+  }
 
   return (
-    <>
-      <div>
-        <a href="https://vite.dev" target="_blank">
-          <img src={viteLogo} className="logo" alt="Vite logo" />
-        </a>
-        <a href="https://react.dev" target="_blank">
-          <img src={reactLogo} className="logo react" alt="React logo" />
-        </a>
-      </div>
-      <h1>Vite + React</h1>
-      <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button>
-        <p>
-          Edit <code>src/App.tsx</code> and save to test HMR
-        </p>
-      </div>
-      <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
-      </p>
-    </>
-  )
+    <div
+      style={{
+        width: '100%',
+        height: '100%',
+        textAlign: 'center',
+      }}
+    >
+      <h2>It is {time.toLocaleTimeString()} now.</h2>
+      <StoryTray stories={stories} />
+    </div>
+  );
 }
 
-export default App
+function useTime() {
+  const [time, setTime] = useState(() => new Date());
+  useEffect(() => {
+    const id = setInterval(() => {
+      setTime(new Date());
+    }, 1000);
+    return () => clearInterval(id);
+  }, []);
+  return time;
+}
+

@@ -42,4 +42,6 @@
   - [rendering-lists 4](./rendering-lists4)
 - https://react.dev/learn/keeping-components-pure
 - https://ja.react.dev/learn/keeping-components-pure
-  - not finished
+  - [keeping-components-pure 1](./keeping-components-pure1)
+  - [keeping-components-pure 2](./keeping-components-pure2)
+  - [keeping-components-pure 3](./keeping-components-pure3)
