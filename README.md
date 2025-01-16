@@ -36,7 +36,10 @@
   - [conditional-rendering 3](./conditional-rendering3)
 - https://react.dev/learn/rendering-lists
 - https://ja.react.dev/learn/rendering-lists
-  - not finished
+  - [rendering-lists 1](./rendering-lists1)
+  - [rendering-lists 2](./rendering-lists2)
+  - [rendering-lists 3](./rendering-lists3)
+  - [rendering-lists 4](./rendering-lists4)
 - https://react.dev/learn/keeping-components-pure
 - https://ja.react.dev/learn/keeping-components-pure
   - not finished
