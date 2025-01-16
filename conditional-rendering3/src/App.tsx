@@ -1,35 +1,71 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
-import './App.css'
-
-function App() {
-  const [count, setCount] = useState(0)
+function Drink({ name }) {
+  let part;
+  let content;
+  let age;
+  if (name === 'tea') {
+    part = 'leaf';
+    content = '15–70 mg/cup';
+    age = '4,000+ years';
+  } else {
+    part = 'bean';
+    content = '80–185 mg/cup';
+    age = '1,000+ years';
+  }
 
   return (
-    <>
-      <div>
-        <a href="https://vite.dev" target="_blank">
-          <img src={viteLogo} className="logo" alt="Vite logo" />
-        </a>
-        <a href="https://react.dev" target="_blank">
-          <img src={reactLogo} className="logo react" alt="React logo" />
-        </a>
-      </div>
-      <h1>Vite + React</h1>
-      <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button>
-        <p>
-          Edit <code>src/App.tsx</code> and save to test HMR
-        </p>
-      </div>
-      <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
-      </p>
-    </>
-  )
+    <section>
+      <h1>{name}</h1>
+      <dl>
+        <dt>Part of plant</dt>
+        <dd>{part}</dd>
+        <dt>Caffeine content</dt>
+        <dd>{content}</dd>
+        <dt>Age</dt>
+        <dd>{age}</dd>
+      </dl>
+    </section>
+  );
 }
 
-export default App
+const drinks = {
+  tea: {
+    part: 'leaf',
+    content: '15–70 mg/cup',
+    age: '4,000+ years',
+  },
+  coffee: {
+    part: 'bean',
+    content: '80–185 mg/cup',
+    age: '1,000+ years',
+  },
+}
+
+function Drink2({ name }) {
+  const { part, content, age } = drinks[name];
+  return (
+    <section>
+      <h1>{name}</h1>
+      <dl>
+        <dt>Part of plant</dt>
+        <dd>{part}</dd>
+        <dt>Caffeine content</dt>
+        <dd>{content}</dd>
+        <dt>Age</dt>
+        <dd>{age}</dd>
+      </dl>
+    </section>
+  );
+}
+
+export default function DrinkList() {
+  return (
+    <div>
+      <Drink name="tea" />
+      <Drink name="coffee" />
+      <hr />
+      <Drink2 name="tea" />
+      <Drink2 name="coffee" />
+    </div>
+  );
+}
+

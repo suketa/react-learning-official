@@ -33,7 +33,7 @@
 - https://ja.react.dev/learn/conditional-rendering
   - [conditional-rendering 1](./conditional-rendering1)
   - [conditional-rendering 2](./conditional-rendering2)
-  - not finished
+  - [conditional-rendering 3](./conditional-rendering3)
 - https://react.dev/learn/rendering-lists
 - https://ja.react.dev/learn/rendering-lists
   - not finished
