@@ -75,3 +75,34 @@
   - [updating-arrays-in-state 2](./updating-arrays-in-state2)
   - [updating-arrays-in-state 3](./updating-arrays-in-state3)
   - [updating-arrays-in-state 4](./updating-arrays-in-state4)
+- https://react.dev/learn/reacting-to-input-with-state
+- https://ja.react.dev/learn/reacting-to-input-with-state
+  - [reacting-to-input-with-state 1](./reacting-to-input-with-state1)
+  - [reacting-to-input-with-state 2](./reacting-to-input-with-state2)
+  - [reacting-to-input-with-state 3](./reacting-to-input-with-state3)
+- https://react.dev/learn/choosing-the-state-structure
+- https://ja.react.dev/learn/choosing-the-state-structure
+  - [choosing-the-state-structure 1](./choosing-the-state-structure1)
+  - [choosing-the-state-structure 2](./choosing-the-state-structure2)
+  - [choosing-the-state-structure 3](./choosing-the-state-structure3)
+  - [choosing-the-state-structure 4](./choosing-the-state-structure4)
+- https://react.dev/learn/sharing-state-between-components
+- https://ja.react.dev/learn/sharing-state-between-components
+  - [sharing-state-between-components 1](./sharing-state-between-components1)
+  - [sharing-state-between-components 2](./sharing-state-between-components2)
+- https://react.dev/learn/preserving-and-resetting-state
+- https://ja.react.dev/learn/preserving-and-resetting-state
+  - [preserving-and-resetting-state 1](./preserving-and-resetting-state1)
+  - [preserving-and-resetting-state 2](./preserving-and-resetting-state2)
+  - [preserving-and-resetting-state 3](./preserving-and-resetting-state3)
+  - [preserving-and-resetting-state 4](./preserving-and-resetting-state4)
+  - [preserving-and-resetting-state 5](./preserving-and-resetting-state5)
+- https://react.dev/learn/extracting-state-logic-into-a-reducer
+- https://ja.react.dev/learn/extracting-state-logic-into-a-reducer
+  - [extracting-state-logic-into-a-reducer 1](./extracting-state-logic-into-a-reducer1)
+  - [extracting-state-logic-into-a-reducer 2](./extracting-state-logic-into-a-reducer2)
+  - [extracting-state-logic-into-a-reducer 3](./extracting-state-logic-into-a-reducer3)
+  - [extracting-state-logic-into-a-reducer 4](./extracting-state-logic-into-a-reducer4)
+- https://react.dev/learn/passing-data-deeply-with-context
+- https://ja.react.dev/learn/passing-data-deeply-with-context
+  - [passing-data-deeply-with-context 1](./passing-data-deeply-with-context1)
