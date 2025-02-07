@@ -106,3 +106,27 @@
 - https://react.dev/learn/passing-data-deeply-with-context
 - https://ja.react.dev/learn/passing-data-deeply-with-context
   - [passing-data-deeply-with-context 1](./passing-data-deeply-with-context1)
+- https://react.dev/learn/referencing-values-with-refs
+- https://ja.react.dev/learn/referencing-values-with-refs
+  - [referencing-values-with-refs 1](./referencing-values-with-refs1)
+  - [referencing-values-with-refs 2](./referencing-values-with-refs2)
+  - [referencing-values-with-refs 3](./referencing-values-with-refs3)
+  - [referencing-values-with-refs 4](./referencing-values-with-refs4)
+- https://react.dev/learn/manipulating-the-dom-with-refs
+- https://ja.react.dev/learn/manipulating-the-dom-with-refs
+  - [manipulating-the-dom-with-refs 1](./manipulating-the-dom-with-refs1)
+  - [manipulating-the-dom-with-refs 2](./manipulating-the-dom-with-refs2)
+  - [manipulating-the-dom-with-refs 3](./manipulating-the-dom-with-refs3)
+  - [manipulating-the-dom-with-refs 4](./manipulating-the-dom-with-refs4)
+- https://react.dev/learn/synchronizing-with-effects
+- https://ja.react.dev/learn/synchronizing-with-effects
+  - [synchronizing-with-effects 1](./synchronizing-with-effects1)
+  - [synchronizing-with-effects 2](./synchronizing-with-effects2)
+  - [synchronizing-with-effects 3](./synchronizing-with-effects3)
+  - [synchronizing-with-effects 4](./synchronizing-with-effects4)
+- https://react.dev/learn/you-might-not-need-an-effects
+- https://ja.react.dev/learn/you-might-not-need-an-effects
+  - [you-might-not-need-an-effects 1](./you-might-not-need-an-effects1)
+  - [you-might-not-need-an-effects 2](./you-might-not-need-an-effects2)
+  - [you-might-not-need-an-effects 3](./you-might-not-need-an-effects3)
+  - [you-might-not-need-an-effects 4](./you-might-not-need-an-effects4)
