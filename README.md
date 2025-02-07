@@ -124,9 +124,9 @@
   - [synchronizing-with-effects 2](./synchronizing-with-effects2)
   - [synchronizing-with-effects 3](./synchronizing-with-effects3)
   - [synchronizing-with-effects 4](./synchronizing-with-effects4)
-- https://react.dev/learn/you-might-not-need-an-effects
-- https://ja.react.dev/learn/you-might-not-need-an-effects
-  - [you-might-not-need-an-effects 1](./you-might-not-need-an-effects1)
-  - [you-might-not-need-an-effects 2](./you-might-not-need-an-effects2)
-  - [you-might-not-need-an-effects 3](./you-might-not-need-an-effects3)
-  - [you-might-not-need-an-effects 4](./you-might-not-need-an-effects4)
+- https://react.dev/learn/you-might-not-need-an-effect
+- https://ja.react.dev/learn/you-might-not-need-an-effect
+  - [you-might-not-need-an-effect 1](./you-might-not-need-an-effect1)
+  - [you-might-not-need-an-effect 2](./you-might-not-need-an-effect2)
+  - [you-might-not-need-an-effect 3](./you-might-not-need-an-effect3)
+  - [you-might-not-need-an-effect 4](./you-might-not-need-an-effect4)
