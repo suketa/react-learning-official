@@ -130,3 +130,8 @@
   - [you-might-not-need-an-effect 2](./you-might-not-need-an-effect2)
   - [you-might-not-need-an-effect 3](./you-might-not-need-an-effect3)
   - [you-might-not-need-an-effect 4](./you-might-not-need-an-effect4)
+- https://ja.react.dev/learn/separating-events-from-effects
+- https://react.dev/learn/separating-events-from-effects
+  - https://ja.react.dev/learn/separating-events-from-effects#declaring-an-effect-event
+  - https://react.dev/learn/separating-events-from-effects#declaring-an-effect-event
+    - [separating-events-from-effects example 1](./separating-events-from-effects-example1) (rewrite sample without useEffectEvent)
