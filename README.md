@@ -137,10 +137,22 @@
   - [lifecycle-of-reactive-effects 3](./lifecycle-of-reactive-effects3)
   - [lifecycle-of-reactive-effects 4](./lifecycle-of-reactive-effects4)
   - [lifecycle-of-reactive-effects 5](./lifecycle-of-reactive-effects5)
-- https://ja.react.dev/learn/separating-events-from-effects
 - https://react.dev/learn/separating-events-from-effects
+- https://ja.react.dev/learn/separating-events-from-effects
   - https://ja.react.dev/learn/separating-events-from-effects#declaring-an-effect-event
   - https://react.dev/learn/separating-events-from-effects#declaring-an-effect-event
     - [separating-events-from-effects example 1](./separating-events-from-effects-example1) (rewrite sample without useEffectEvent)
   - [separating-events-from-effects 1](./separating-events-from-effects1)
   - [separating-events-from-effects 2](./separating-events-from-effects2)
+- https://react.dev/learn/removing-effect-dependencies
+- https://ja.react.dev/learn/removing-effect-dependencies
+  - [removing-effect-dependencies 1](./removing-effect-dependencies1)
+  - [removing-effect-dependencies 2](./removing-effect-dependencies2)
+  - [removing-effect-dependencies 3](./removing-effect-dependencies3)
+  - [removing-effect-dependencies 4](./removing-effect-dependencies4)
+- https://react.dev/learn/reusing-logic-with-custom-hooks
+- https://ja.react.dev/learn/reusing-logic-with-custom-hooks
+  - [reusing-logic-with-custom-hooks 1](./reusing-logic-with-custom-hooks1)
+  - [reusing-logic-with-custom-hooks 2](./reusing-logic-with-custom-hooks2)
+  - [reusing-logic-with-custom-hooks 3](./reusing-logic-with-custom-hooks3)
+  - [reusing-logic-with-custom-hooks 5](./reusing-logic-with-custom-hooks5)
