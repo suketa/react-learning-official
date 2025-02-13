@@ -130,9 +130,17 @@
   - [you-might-not-need-an-effect 2](./you-might-not-need-an-effect2)
   - [you-might-not-need-an-effect 3](./you-might-not-need-an-effect3)
   - [you-might-not-need-an-effect 4](./you-might-not-need-an-effect4)
+- https://react.dev/learn/lifecycle-of-reactive-effects
+- https://ja.react.dev/learn/lifecycle-of-reactive-effects
+  - [lifecycle-of-reactive-effects 1](./lifecycle-of-reactive-effects1)
+  - [lifecycle-of-reactive-effects 2](./lifecycle-of-reactive-effects2)
+  - [lifecycle-of-reactive-effects 3](./lifecycle-of-reactive-effects3)
+  - [lifecycle-of-reactive-effects 4](./lifecycle-of-reactive-effects4)
+  - [lifecycle-of-reactive-effects 5](./lifecycle-of-reactive-effects5)
 - https://ja.react.dev/learn/separating-events-from-effects
 - https://react.dev/learn/separating-events-from-effects
   - https://ja.react.dev/learn/separating-events-from-effects#declaring-an-effect-event
   - https://react.dev/learn/separating-events-from-effects#declaring-an-effect-event
     - [separating-events-from-effects example 1](./separating-events-from-effects-example1) (rewrite sample without useEffectEvent)
-  - []
+  - [separating-events-from-effects 1](./separating-events-from-effects1)
+  - [separating-events-from-effects 2](./separating-events-from-effects2)
