@@ -155,4 +155,5 @@
   - [reusing-logic-with-custom-hooks 1](./reusing-logic-with-custom-hooks1)
   - [reusing-logic-with-custom-hooks 2](./reusing-logic-with-custom-hooks2)
   - [reusing-logic-with-custom-hooks 3](./reusing-logic-with-custom-hooks3)
+  - [reusing-logic-with-custom-hooks 4](./reusing-logic-with-custom-hooks4)
   - [reusing-logic-with-custom-hooks 5](./reusing-logic-with-custom-hooks5)
