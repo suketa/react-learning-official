@@ -6,9 +6,9 @@ export default function Timer() {
 
   const incrementRef = useRef(increment);
 
-  useLayoutEffect(() => {
-    incrementRef.current = increment
-  }, [increment]);
+  // useLayoutEffect(() => {
+  //   incrementRef.current = increment
+  // }, [increment]);
 
   useEffect(() => {
     const id = setInterval(() => {
